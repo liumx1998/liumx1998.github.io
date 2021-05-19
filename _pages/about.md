@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Mengxiao Liu - Index"
+title: "Mengxiao Liu （刘孟骁）"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Mengxiao Liu
 
 Cyberspace Security Lab, School of Computer Engineering and Science, Shanghai University
 
